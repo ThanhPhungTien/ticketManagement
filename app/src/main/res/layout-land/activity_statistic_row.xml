@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:weightSum="100">
+
+    <TextView
+        android:id="@+id/tv_no"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="8"
+        android:gravity="left"
+        android:layout_gravity="center"
+        android:textColor="@color/black"
+        android:text="@string/no"/>
+
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="26"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textColor="@color/black"
+        android:text="@string/date"/>
+
+    <TextView
+        android:id="@+id/tv_carin"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="18"
+        android:layout_gravity="center"
+        android:gravity="left"
+        android:textColor="@color/black"
+        android:text="@string/car_in_num"/>
+
+    <TextView
+        android:id="@+id/tv_carout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="18"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="@string/car_out_num"/>
+
+    <TextView
+        android:id="@+id/tv_revenue"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="30"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="@string/revenue"/>
+
+</TableRow>

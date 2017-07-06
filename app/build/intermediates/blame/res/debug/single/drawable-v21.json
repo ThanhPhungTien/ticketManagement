@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\APC\\.android\\build-cache\\17b8930e6359cd01f42f8d8990f40e889a001578\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\APC\\.android\\build-cache\\365ced0bee27ee82335ea0b622a34c2f9a1bf948\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\APC\\.android\\build-cache\\17b8930e6359cd01f42f8d8990f40e889a001578\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\APC\\.android\\build-cache\\17b8930e6359cd01f42f8d8990f40e889a001578\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\APC\\.android\\build-cache\\17b8930e6359cd01f42f8d8990f40e889a001578\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\APC\\.android\\build-cache\\365ced0bee27ee82335ea0b622a34c2f9a1bf948\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\APC\\.android\\build-cache\\365ced0bee27ee82335ea0b622a34c2f9a1bf948\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\APC\\.android\\build-cache\\365ced0bee27ee82335ea0b622a34c2f9a1bf948\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

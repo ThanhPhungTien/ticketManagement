@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Dobody\ticketmanagement\ticketmanagement\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Dobody\ticketmanagement\ticketmanagement\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7892d138529afa8bf5130c6054f15755ff822b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Dobody\ticketmanagement\ticketmanagement\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Dobody\ticketmanagement\ticketmanagement\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7892d138529afa8bf5130c6054f15755ff822b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\APC\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\Dobody\ticketmanagement\ticketmanagement\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.0_ad8632141c8e4cb5ba4fc78bbeda58d072c8573a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Dobody\ticketmanagement\ticketmanagement\app\libs\AndroidPrinterSDK3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4bfcce5008621b2cda6fb1189efd60757424e32f">
+        <dex dex="C:\Dobody\ticketmanagement\ticketmanagement\app\build\intermediates\transforms\dex\debug\folders\1000\2\AndroidPrinterSDK3.0_c546ca604439eb607a8ca82c1a9922cea5743cd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Dobody\ticketmanagement\ticketmanagement\app\libs\AndroidPrinterSDK3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4bfcce5008621b2cda6fb1189efd60757424e32f">
+        <dex dex="C:\Dobody\ticketmanagement\ticketmanagement\app\build\intermediates\transforms\dex\debug\folders\1000\2\AndroidPrinterSDK3.0_c546ca604439eb607a8ca82c1a9922cea5743cd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Dobody\ticketmanagement\ticketmanagement\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d535f881fab7fc2cf5346fb87620119c3a73f11">
+        <dex dex="C:\Dobody\ticketmanagement\ticketmanagement\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c12f7b6acd4ab755dda42398917e73b416eeb2cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Dobody\ticketmanagement\ticketmanagement\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7285f60f38ced9e6d6ee789f7581557f8e430e9f">
+        <dex dex="C:\Dobody\ticketmanagement\ticketmanagement\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c12f7b6acd4ab755dda42398917e73b416eeb2cb\classes.dex" />
+    </item>
+
+</items>

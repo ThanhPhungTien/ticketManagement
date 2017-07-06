@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\paying_car.png",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\drawable-mdpi\\paying_car.png"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\station.png",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\drawable-mdpi\\station.png"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\car_out.png",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\drawable-mdpi\\car_out.png"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logout.png",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\drawable-mdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\graph.png",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\drawable-mdpi\\graph.png"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\camera.png",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\drawable-mdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\settings.png",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\printer.png",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\drawable-mdpi\\printer.png"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\car_in.png",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\drawable-mdpi\\car_in.png"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\search.png",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\add_user.png",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\drawable-mdpi\\add_user.png"
+    }
+]

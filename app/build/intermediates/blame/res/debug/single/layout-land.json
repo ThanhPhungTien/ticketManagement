@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_car_in_park.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_car_in_park.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_statistic_row.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_statistic_row.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_log_row.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_log_row.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_user_list.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_user_list.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\welcome_main.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\welcome_main.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_log.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_log.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\bluetooth_connect_activity_main.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\bluetooth_connect_activity_main.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_config.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_config.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\dialog_add_account.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\dialog_add_account.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\device_list.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_car_out.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_car_out.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_search_car_row.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_search_car_row.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_car_in_park_row.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_car_in_park_row.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_user_list_row.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_user_list_row.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_statistic.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_statistic.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_car_in.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_car_in.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_detail_info.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_detail_info.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\dialog_input_lisence_plate.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\dialog_input_lisence_plate.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\device_item.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\device_item.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_search_car.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_search_car.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_login.xml",
+        "source": "C:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\src\\main\\res\\layout-land\\activity_login.xml"
+    }
+]

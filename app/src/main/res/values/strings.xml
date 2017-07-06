@@ -1,0 +1,204 @@
+<resources>
+    <string name="app_name">TicketManagement</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="loading">Loading...</string>
+    <string name="user_manager_title">Quản lý User</string>
+    <string name="ticket_manager_title">Quản lý Vé xe</string>
+    <string name="search_title">Tìm kiếm</string>
+    <string name="statistic_title">Thống kê</string>
+    <string name="login_title">Đăng nhập</string>
+    <string name="carin_park_title">Xe trong bãi</string>
+    <string name="carin_title">Xe vào bãi</string>
+    <string name="carout_title">Xe ra khỏi bãi</string>
+    <string name="detail_info_title">Thông tin chi tiết</string>
+    <string name="connect_printer">Kết nối máy in</string>
+    <string name="config">Cấu hình</string>
+    <string name="logout">Thoát</string>
+    <string name="confirm_logout">Bạn có muốn thoát không?</string>
+
+    <!-- Strings login screen -->
+    <string name="login">Đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="back">Quay lại</string>
+    <string name="login_error_title">Lỗi đăng nhập</string>
+    <string name="login_error">Không thể đăng nhập. Hãy kiểm tra lại tài khoản và mật khẩu của bạn</string>
+
+    <!-- Strings main screen -->
+    <string name="setting">Chế độ</string>
+    <string name="car_in">Xe vào</string>
+    <string name="car_out">Xe ra</string>
+    <string name="feature">Chức năng</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="car_in_parking">Xe trong bãi</string>
+    <string name="statistic">Thống kê</string>
+    <string name="add_user">Thêm user</string>
+    <string name="manage_user">Quản lý user</string>
+
+    <!-- Strings car in screen -->
+    <string name="lisence_plate">Biển số:</string>
+    <string name="barcode">Barcode:</string>
+    <string name="time_in">Thời gian vào:</string>
+    <string name="print_ticket">In vé xe</string>
+    <string name="image_car_in">Ảnh xe vào</string>
+    <string name="in">Vào:</string>
+    <string name="out">Ra:</string>
+
+    <!-- Strings car out screen -->
+    <string name="time_out">Thời gian ra:</string>
+    <string name="money_total">Thành tiền: </string>
+    <string name="print_bill">In hóa đơn</string>
+
+    <!-- Strings search screen -->
+    <string name="time">Thời gian</string>
+    <string name="from">Từ</string>
+    <string name="to">Đến</string>
+    <string name="status">Trạng thái</string>
+    <string name="in_packing">Trong bãi</string>
+    <string name="out_packing">Đã ra khỏi bãi</string>
+    <string name="all">Tất cả</string>
+    <string name="no">STT</string>
+    <string name="car_type">Loại xe</string>
+    <string name="lisence_plate_row">Biển số</string>
+
+    <!-- Strings detail screen -->
+    <string name="accept_carout">Cho xe ra</string>
+
+
+    <!-- Strings statistic screen -->
+    <string name="car_total">Tổng số xe trong bãi</string>
+    <string name="today">Hôm nay</string>
+    <string name="car_in_total">Tổng số xe vào</string>
+    <string name="car_out_total">Tổng số xe ra</string>
+    <string name="service_fee">Phí thu</string>
+    <string name="statistic_with_time">Thống kê theo thời gian</string>
+    <string name="car_in_num">Số xe vào</string>
+    <string name="car_out_num">Số xe ra</string>
+    <string name="date">Ngày</string>
+    <string name="revenue">Doanh thu</string>
+    <string name="revenue_total">Tổng doanh thu</string>
+    <string name="carin_total">Tổng số xe vào</string>
+    <string name="carout_total">Tổng số xe ra</string>
+
+    <!-- Strings user list screen -->
+    <string name="user_total">Tổng số User</string>
+    <string name="account">Tài khoản</string>
+    <string name="name">Họ tên</string>
+    <string name="working_shift">Ca làm</string>
+    <string name="permission">Quyền hạn</string>
+    <string name="sex">Giới tính</string>
+    <string name="error_title">Lỗi</string>
+    <string name="warning_title">Thông báo</string>
+    <string name="account_is_null">Tài khoản đang trống</string>
+    <string name="password_is_null">Mật khẩu đang trống</string>
+    <string name="name_is_null">Họ tên đang trống</string>
+    <string name="working_shift_is_null">Ca làm việc đang trống</string>
+    <string name="delete_confirm_title">Xóa user</string>
+    <string name="delete_confirm">Bạn có chắc chắn muốn xóa user?</string>
+    <string name="canot_delete">Bạn không thể xóa chính mình</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    <string name="user_infor">Thông tin tài khoản</string>
+    <string name="ok">OK</string>
+    <string name="look_car">Trông xe</string>
+    <string name="manager">Quản lý</string>
+    <string name="admin">Admin</string>
+    <string name="close">Đóng</string>
+
+    <!-- print connect   -->
+
+    <string name="button_scan">Tìm kiếm máy in</string>
+    <string name="select_device">Chọn máy in kết nối</string>
+    <string name="has_paired">Đã pair</string>
+    <string name="not_paired">Chưa pair</string>
+    <string name="scanning">Đang tìm kiếm máy in...</string>
+    <string name="rePaire_connect">Repair và Kết nối</string>
+    <string name="unpair">Unpair</string>
+    <string name="paire_connect">Pair và Kết nối</string>
+    <string name="none_found">Không tìm thấy máy in</string>
+    <string name="not_connect_print">Chưa kết nối với máy in</string>
+    <string name="cannot_print">Không thể in được hóa đơn</string>
+    <string name="connect_paired">Kết nối</string>
+    <string name="select_options">Chọn kết nối</string>
+    <string name="bt_not_enabled">Bluetooth chưa được bật</string>
+    <string name="disconnect_printer">Đóng kết nối</string>
+
+    <string name="time_total">Tổng thời gian: </string>
+    <string name="shop_print_time">Phí thu: </string>
+    <string name="shop_goods_number">Goods Quantity: </string>
+    <string name="shop_goods_total_price">Total: </string>
+    <string name="shop_payment">Payment: </string>
+    <string name="shop_change">Change: </string>
+    <string name="shop_company_name">Công ty Cổ Phần Hitech Việt Nam</string>
+    <string name="shop_company_site">Website: www.hitechviet.com</string>
+    <string name="shop_company_address">Địa chỉ: Trần Bình, Cầu Giấy, Hà Nội</string>
+    <string name="shop_company_tel">Hotline: (84-4) 934 466 269</string>
+    <string name="shop_Service_Line">:</string>
+    <string name="shop_thanks">Vé Xe</string>
+    <string name="shop_thanks1">Hóa Đơn</string>
+    <string name="shop_not">Không chịu trách nhiệm với những tài sản cá nhân trên xe</string>
+
+
+    <string name="print_bill_success">Đã cho xe ra khỏi bãi</string>
+    <string name="print_ticket_success">Đã cho xe vào bãi</string>
+
+
+    <!-- config screen   -->
+    <string name="block_1">Block 1: </string>
+    <string name="block_2">Block tiếp theo: </string>
+    <string name="curency">Vnđ </string>
+    <string name="hour">Giờ </string>
+    <string name="setting_block_null">Thông tin block đang trống  </string>
+    <string name="block1_null">Thông tin block 1 đang trống </string>
+    <string name="block2_null">Thông tin block 2 đang trống  </string>
+    <string name="save_setting_block_error">Không thể lưu thông tin cấu hình  </string>
+    <string name="save_setting_block_success">Lưu thông tin cấu hình thành công  </string>
+    <string name="log_manage">Quản lý log: </string>
+    <string name="view_log">Xem log </string>
+
+
+    <string name="setting_ticket">Cấu hình thông tin vé:</string>
+    <string name="setting_parking">Thông tin bãi xe:</string>
+    <string name="setting_address">Địa chỉ:</string>
+    <string name="setting_hot">Hotline:</string>
+    <string name="setting_web">Website:</string>
+    <string name="setting_price">Cấu hình giá:</string>
+    <string name="about_title">Giới thiệu phần mềm:</string>
+    <string name="about">Giới thiệu</string>
+    <string name="image">Hình ảnh</string>
+    
+    
+    <!-- log screen  -->
+    <string name="user_id">Id</string>
+    <string name="login_row">Login:</string>
+    <string name="logout_row">Logout:</string>
+
+    <string name="input_lisence">Nhập biển số xe</string>
+    <string name="lisence_is_null">Biển số đang trống</string>
+    <string name="carout_save_error">Không tìm thấy dữ liệu xe</string>
+    <string name="list_is_null">Danh sách trống</string>
+    <string name="set_time_invalid">Lỗi thiết lập thời gian</string>
+
+
+    <string name="recapture">Chụp lại</string>
+
+    <!-- config screen -->
+
+    <string name="application_name">Ứng dụng:</string>
+    <string name="application">Ứng dụng Quản lý bãi đỗ xe</string>
+    <string name="version">Phiên bản:</string>
+    <string name="copy_right">Bản quyền thuộc về Công ty cổ phần Hitech Việt Nam</string>
+    <string name="add_name">VPGD:</string>
+    <string name="add">P909 Tòa CT2 Ngõ 62 Đường Trần Bình, Quận Cầu Giấy, TP. Hà Nội</string>
+    <string name="hot_line_name">Hotline:</string>
+    <string name="hot_line">(84-4) 934 466 269</string>
+    <string name="email_name">Mail:</string>
+    <string name="email">info@hitechviet.com</string>
+    <string name="web_name">Website:</string>
+    <string name="web">www.hitechviet.com</string>
+
+    <string name="address_name">Địa chỉ:</string>
+
+
+</resources>

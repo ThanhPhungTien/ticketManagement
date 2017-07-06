@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:2:1-89:12
+	package
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.CAMERA
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:9:22-77
+uses-feature#android.hardware.camera
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:11:19-67
+application
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:14:5-87:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\APC\.android\build-cache\17b8930e6359cd01f42f8d8990f40e889a001578\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\APC\.android\build-cache\365ced0bee27ee82335ea0b622a34c2f9a1bf948\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\APC\.android\build-cache\47e7ca8df42941faaa9a709d7127f282564bf154\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\APC\.android\build-cache\8e92783f24fcf970c70a0dd6bfec6152178b5312\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\APC\.android\build-cache\97b3a008ae2ff0216b27679c961b8c8022ed052a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\APC\.android\build-cache\e417f2bd3391b38cb245da5c91c7a7c8dcbc332f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\APC\.android\build-cache\0474cb90693afd1223c9b63299310da1420d997f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\APC\.android\build-cache\b22c0df9ce20dc3e40f59ad0562db99dc229beee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\APC\.android\build-cache\6ed8fdd4f05be47c531eadc111de1ce9a04cec86\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\APC\.android\build-cache\d1b1b2a4005bbcb1ea01da014b09f97f7e836226\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\APC\.android\build-cache\21ff28947eefb80eb1ed6e772eaed5ecbde6bf6a\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:15:9-53
+activity#com.dinhcv.ticketmanagement.activity.WelcomeActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:23:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:24:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:22:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.dinhcv.ticketmanagement.activity.MainActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:31:9-34:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:33:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:34:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:32:13-50
+activity#com.dinhcv.ticketmanagement.activity.LoginActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:35:9-38:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:37:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:38:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:36:13-51
+activity#com.dinhcv.ticketmanagement.activity.CarInActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:39:9-42:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:41:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:42:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:40:13-51
+activity#com.dinhcv.ticketmanagement.activity.CarOutActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:43:9-46:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:45:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:46:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:44:13-52
+activity#com.dinhcv.ticketmanagement.activity.SearchCarActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:47:9-50:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:49:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:50:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:48:13-55
+activity#com.dinhcv.ticketmanagement.activity.StatisticActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:51:9-54:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:53:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:54:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:52:13-55
+activity#com.dinhcv.ticketmanagement.activity.UserListActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:55:9-58:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:57:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:58:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:56:13-54
+activity#com.dinhcv.ticketmanagement.activity.DetailInfoActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:59:9-62:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:61:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:62:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:60:13-56
+activity#com.dinhcv.ticketmanagement.activity.CarInParkActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:63:9-66:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:65:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:66:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:64:13-55
+activity#com.dinhcv.ticketmanagement.activity.BluetoothDeviceList
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:67:9-70:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:69:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:70:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:68:13-57
+activity#com.dinhcv.ticketmanagement.activity.BluetoothConectActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:71:9-74:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:73:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:74:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:72:13-61
+activity#com.dinhcv.ticketmanagement.activity.ConfigActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:75:9-78:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:77:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:78:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:76:13-52
+activity#com.dinhcv.ticketmanagement.activity.LogActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:79:9-82:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:81:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:82:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:80:13-49
+activity#com.dinhcv.ticketmanagement.activity.ReCaptureActivity
+ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:83:9-86:53
+	android:screenOrientation
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:85:13-49
+	android:theme
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:86:13-50
+	android:name
+		ADDED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml:84:13-55
+uses-sdk
+INJECTED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\APC\.android\build-cache\17b8930e6359cd01f42f8d8990f40e889a001578\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\APC\.android\build-cache\365ced0bee27ee82335ea0b622a34c2f9a1bf948\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\APC\.android\build-cache\47e7ca8df42941faaa9a709d7127f282564bf154\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\APC\.android\build-cache\8e92783f24fcf970c70a0dd6bfec6152178b5312\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\APC\.android\build-cache\e53c13493feec43216939d5e66939e6936f1bbff\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\APC\.android\build-cache\97b3a008ae2ff0216b27679c961b8c8022ed052a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\APC\.android\build-cache\e417f2bd3391b38cb245da5c91c7a7c8dcbc332f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\APC\.android\build-cache\0474cb90693afd1223c9b63299310da1420d997f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\APC\.android\build-cache\b22c0df9ce20dc3e40f59ad0562db99dc229beee\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\APC\.android\build-cache\6ed8fdd4f05be47c531eadc111de1ce9a04cec86\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\APC\.android\build-cache\d1b1b2a4005bbcb1ea01da014b09f97f7e836226\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\APC\.android\build-cache\21ff28947eefb80eb1ed6e772eaed5ecbde6bf6a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\APC\.android\build-cache\17b8930e6359cd01f42f8d8990f40e889a001578\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Dobody\ticketmanagement\ticketmanagement\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\APC\.android\build-cache\17b8930e6359cd01f42f8d8990f40e889a001578\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\APC\.android\build-cache\365ced0bee27ee82335ea0b622a34c2f9a1bf948\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\APC\.android\build-cache\47e7ca8df42941faaa9a709d7127f282564bf154\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\APC\.android\build-cache\8e92783f24fcf970c70a0dd6bfec6152178b5312\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\APC\.android\build-cache\e53c13493feec43216939d5e66939e6936f1bbff\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\APC\.android\build-cache\97b3a008ae2ff0216b27679c961b8c8022ed052a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\APC\.android\build-cache\e417f2bd3391b38cb245da5c91c7a7c8dcbc332f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\APC\.android\build-cache\0474cb90693afd1223c9b63299310da1420d997f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\APC\.android\build-cache\b22c0df9ce20dc3e40f59ad0562db99dc229beee\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\APC\.android\build-cache\6ed8fdd4f05be47c531eadc111de1ce9a04cec86\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\APC\.android\build-cache\d1b1b2a4005bbcb1ea01da014b09f97f7e836226\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\APC\.android\build-cache\21ff28947eefb80eb1ed6e772eaed5ecbde6bf6a\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\APC\.android\build-cache\17b8930e6359cd01f42f8d8990f40e889a001578\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\APC\.android\build-cache\17b8930e6359cd01f42f8d8990f40e889a001578\output\AndroidManifest.xml:26:9-47

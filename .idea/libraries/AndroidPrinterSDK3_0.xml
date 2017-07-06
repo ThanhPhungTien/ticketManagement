@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AndroidPrinterSDK3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/AndroidPrinterSDK3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

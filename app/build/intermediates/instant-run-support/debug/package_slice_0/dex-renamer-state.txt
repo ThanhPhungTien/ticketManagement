@@ -1,0 +1,4 @@
+#Thu Jul 06 16:49:53 ICT 2017
+base.0=C\:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=C\:\\Dobody\\ticketmanagement\\ticketmanagement\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex
